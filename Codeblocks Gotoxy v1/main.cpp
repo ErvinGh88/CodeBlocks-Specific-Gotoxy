@@ -34,6 +34,9 @@ int main()
     // tricks ->
                 // put 1st num "80" for put in middle (*but in full screen of console)
                 // 2nd num is line (here i put "test" in line 3)
+    
+    //enjoy :)
+    //By ErvinGh88
 
     return 0;
 }
